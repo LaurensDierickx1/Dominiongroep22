@@ -1,0 +1,8 @@
+.idea
+.metadata
+RemoteSystemsTempFiles
+Servers
+DominionServer/.project
+DominionServer/.classpath
+DominionServer/.settings
+DominionServer/build
