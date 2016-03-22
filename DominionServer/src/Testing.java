@@ -31,7 +31,7 @@ public class Testing extends HttpServlet {
 		response.setCharacterEncoding("utf-8");
 		
 		PrintWriter out = response.getWriter();
-		 out.println("<html><body><p>Hello World.</p></body></html>");
+		 out.println("<html><body><p>aangepast door Laurens</p></body></html>");
 		 System.out.println("ik heb gewerkt...");
 	}
 
