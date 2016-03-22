@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 //dit is een aanpassing door jens
 
 
-@WebServlet("/Jorre")
+@WebServlet("/help")
 public class Testing extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
